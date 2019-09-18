@@ -2,13 +2,13 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135605-ba0e5f2c-7d12-11e8-9578-86d74e0976f8.gif "Trained Agent"
 
-# Discretization
+# MountainCar - Discretization
 
 ### Instructions
 
 As per Udacity
 
-#### Note: If Python Notebook doesn't render, please  [click here](https://nbviewer.jupyter.org/github/naneja/MountainCar/blob/master/n-Discretization.ipynb)
+#### Note: If Python Notebook doesn't render, copy url in https://nbviewer.jupyter.org
 
 To learn about more advanced discretization approaches, refer to the following:
 
